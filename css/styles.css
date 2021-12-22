@@ -89,7 +89,8 @@ body {
 }
 
 .hero-btn {
-  font-family: "Arial";
+  font-family: "Roboto";
+  font-weight: 700;
   background: #188ce8;
   font-size: 16px;
   line-height: 1.87;
@@ -175,6 +176,7 @@ body {
 }
 
 .footer-address-location {
+  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -195,7 +197,7 @@ body {
 /*---- ГЕРОЙ ---*/
 
 .list-btn {
-  font-family: "Arial";
+  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
